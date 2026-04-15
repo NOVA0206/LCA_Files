@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1776245048734",
+    "name": "Jeevan",
+    "email": "jeevanj020604@gmail.com",
+    "course": "MSc. Blockchain Technology",
+    "marks": 99
+  },
+  {
+    "id": "1776245082701",
+    "name": "Yash Rajesh Mourya",
+    "email": "yashmourya@gmail.com",
+    "course": "MSc. Blockchain Technology",
+    "marks": 95
+  },
+  {
+    "id": "1776245343592",
+    "name": "Atharva Parmeshwar Funde",
+    "email": "atharvafunde@gmail.com",
+    "course": "MSc. Blockchain Technology",
+    "marks": 91
+  }
+]
